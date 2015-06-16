@@ -16,3 +16,7 @@ SERVICES = ['opensubtitles', 'subswiki', 'subtitulos', 'thesubdb', 'addic7ed', '
 or something like that.
 
 Then copy the subspedia.py file in your sickrage/lib/subliminal/services, restart SickRage and enable the provider in the "Subtitles Settings" page of SickRage.
+
+Optionally you can add the subspedia.png icon to sickrage/gui/slick/images/subtitles. 
+
+Have a look at the screenshots for an idea of what you will get once it is all up and running.
